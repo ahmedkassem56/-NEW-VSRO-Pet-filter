@@ -1,0 +1,9 @@
+D:\Projects 23-1\Projects\[NEW VSRO] Pet filter\Pet filter\bin\Release\Pet filter.exe
+D:\Projects 23-1\Projects\[NEW VSRO] Pet filter\Pet filter\bin\Release\Pet filter.pdb
+D:\Projects 23-1\Projects\[NEW VSRO] Pet filter\Pet filter\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects 23-1\Projects\[NEW VSRO] Pet filter\Pet filter\obj\x86\Release\Pet_filter.MainForm.resources
+D:\Projects 23-1\Projects\[NEW VSRO] Pet filter\Pet filter\obj\x86\Release\Pet_filter.Properties.Resources.resources
+D:\Projects 23-1\Projects\[NEW VSRO] Pet filter\Pet filter\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects 23-1\Projects\[NEW VSRO] Pet filter\Pet filter\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects 23-1\Projects\[NEW VSRO] Pet filter\Pet filter\obj\x86\Release\Pet filter.exe
+D:\Projects 23-1\Projects\[NEW VSRO] Pet filter\Pet filter\obj\x86\Release\Pet filter.pdb
